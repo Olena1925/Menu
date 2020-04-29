@@ -1,18 +1,19 @@
-# Adding a basic ordered list of weekly menu items
+# Adding a basic ordered list of weekly menu items in the HTML website
 
 >Assumptions
-    1. Single Page Website
-    2. Hosted in GitHub Pages via a GitHub repository
+    1. Single Page Website.
+    2. Hosted in GitHub Pages via a GitHub repository.
 
 ## 1. Locating the webpage
 
-1. Login to your GitHub account
-2. Open the repository of your restaurant's website
-3. Locate **index.html** file and click on **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/>
+1. Login to your GitHub account.
+2. Open the repository of your restaurant's website.
+3. Locate **index.html** file and click on **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/>.
 
 ### 2. Adding the weekly menu ordered list
 
 4. In the online GitHub editor, add your weekly ordered list in the HTML format as explained in the sample below
+
     ```html
     <html>
         <body>
