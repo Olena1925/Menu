@@ -1,8 +1,8 @@
 # Adding a basic ordered list of weekly menu items in the HTML website
 
->Assumptions
-    1. Single Page Website.
-    2. Hosted in GitHub Pages via a GitHub repository.
+    Assumptions
+        1. Single Page Website.
+        2. Hosted in GitHub Pages via a GitHub repository.
 
 ## 1. Locating the webpage
 
