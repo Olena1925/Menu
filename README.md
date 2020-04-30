@@ -8,7 +8,7 @@
 
 1. Login to GitHub with `<username>` and `<password>`.
 2. Open the repository `<repo-name>` of your restaurant’s website.
-3. Locate **restaurantmenu.html** file, and click the **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/> to open the GitHub editor.
+3. Locate **html** file (*`restaurant.html` in the example screenshot below*), and click the **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/> to open the GitHub editor.
 
 <a href="https://raw.githubusercontent.com/Olena1925/Ordered-List/master/adding_menu.jpg" target="blank">
 <img src="https://raw.githubusercontent.com/Olena1925/Ordered-List/master/adding_menu.jpg" width="290" height="160" align="middle" alt="Open in New Tab" style = "display: block; margin-left: auto; margin-right:auto;"/></a>
