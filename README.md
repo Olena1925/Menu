@@ -31,4 +31,4 @@
 5. Select **Commit directly to the `master` branch**.
 6. Push the <span style="background-color: #00cc00"><span style="color: white;">Commit changes</span></span> button to save the weekly menu in the webpage.
 
->Visit [GitHub Pages](https://pages.github.com) for learning more about hosting the website.
+>**Tip**: Visit [GitHub Pages](https://pages.github.com) for learning more about hosting the website.
