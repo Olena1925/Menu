@@ -8,7 +8,7 @@
 
 1. Login to GitHub with `<username>` and `<password>`.
 2. Open the repository `<repo-name>` of your restaurant’s website.
-3. Locate `<path to index.xml>` file, and click on **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/> to open the GitHub editor.
+3. Locate **index.html** file, and click the **Edit Icon**<img src="https://raw.githubusercontent.com/Olena1925/Menu/master/Edit%20Icon.png" width="20" height="15"/> to open the GitHub editor.
 
 <a href="https://raw.githubusercontent.com/Olena1925/Ordered-List/master/adding_menu.jpg" target="blank">
 <img src="https://raw.githubusercontent.com/Olena1925/Ordered-List/master/adding_menu.jpg" width="290" height="160" align="middle" alt="Open in New Tab" style = "display: block; margin-left: auto; margin-right:auto;"/></a>
@@ -34,4 +34,4 @@
 5. Select the option **Commit directly to the `master` branch**.
 6. Push the <span style="background-color: #00cc00"><span style="color: white;">Commit changes</span></span> button to save the weekly menu in the webpage.
 
->Visit [GitHub Pages](https://pages.github.com) for learning more about hosting the website.
+> **Tip**: Visit [GitHub Pages](https://pages.github.com) for learning more about hosting the website.
